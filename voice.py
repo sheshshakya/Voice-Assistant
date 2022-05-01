@@ -6,6 +6,7 @@ import webbrowser
 import os
 import smtplib
 
+
 print("Initializing Jarvis")
 MASTER = "Shesh"
 
